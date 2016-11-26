@@ -1,0 +1,10 @@
+The code of WWCD is (C) Copyright 2015-2016 SektionEins GmbH
+and has been authored by Stefan Esser
+
+The code is provided for educational purposes and to allow
+recompilation with new versions of the IDASDK.
+
+The code is not and was never licensed under a free/open 
+source license. You are NOT free to just copy the code 
+and put it into your own projects be it commercial or 
+non commercial nature.
